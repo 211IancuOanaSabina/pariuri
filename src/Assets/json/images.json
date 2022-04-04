@@ -1,0 +1,13 @@
+{
+    "path":"../Images",
+    "image": [{
+        "file":"poza1.png"
+    },
+    {
+        "file":"poza2.jpg"
+    },
+    {
+        "file":"poza3.jpg"
+    }
+    ]
+}

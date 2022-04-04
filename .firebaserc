@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "footballbet-e3d5b": {
+      "hosting": {
+        "pacanele": [
+          "footballbet-e3d5b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "footballbet-e3d5b"
+  }
+}
